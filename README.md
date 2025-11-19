@@ -63,3 +63,12 @@ php artisan migrate
 # Serve the project locally
 php artisan serve
 ```
+---
+## 🔹Demo
+- **Local preview only:** Open http://127.0.0.1:8000 after running php artisan serve.
+---
+## 🔹Author
+- **Name:** Omer Latifi
+- **GitHub:** https://github.com/omerlatifi
+- **Portfolio:** https://yourportfolio.com
+---
