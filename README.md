@@ -39,7 +39,7 @@ Since the project is not live, use screenshots from your local environment and p
 ## 🔹 Installation Steps (Local Use)
 ```bash
 # Clone the repository
-git clone https://github.com/omerlatifi/News-Portal.git
+git clone https://github.com/omerlatifi/Newsportal-Management-System.git
 
 # Move into the project directory
 cd News-Portal
