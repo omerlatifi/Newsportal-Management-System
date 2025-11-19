@@ -19,7 +19,7 @@ A dynamic news portal built with Laravel, MySQL,CSS,Javascript and Bootstrap, fe
 ---
 
 ## 🔹 Screenshots
-Since the project is not live, use screenshots from your local environment and place them in `/screenshots`:
+Since the project is not live, use screenshots from your local environment :
 
 ![Home Page](screenshots/homepage.png)  
 ![Category Page](screenshots/categorypage.png)  
