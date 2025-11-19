@@ -25,6 +25,7 @@ Since the project is not live, use screenshots from your local environment :
 ![Category Page](screenshots/categorypage.png)  
 ![News Details](screenshots/newsdetails.png)  
 ![Admin Panel](paperAdmin/public/Admin Panel_News_Portal.png)
+paperAdmin/public/Admin Panel_News_Portal.png
 
 ---
 
