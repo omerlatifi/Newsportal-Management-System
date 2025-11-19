@@ -21,10 +21,12 @@ A dynamic news portal built with Laravel, MySQL,CSS,Javascript and Bootstrap, fe
 ## 🔹 Screenshots
 Since the project is not live, use screenshots from your local environment :
 
-![Home Page](screenshots/homepage.png)  
-![Category Page](screenshots/categorypage.png)  
-![News Details](screenshots/newsdetails.png)  
-![Admin Panel](paperAdmin/public/Admin%20Panel_News_Portal.png)
+![Home Page](paperAdmin/public/Bangla%20News.png)  
+![Category Page](paperAdmin/public/Category_admin.png)  
+![News Details](paperAdmin/public/English%20News.png)  
+![Permission](paperAdmin/public/Permission_setting.png)
+![News lists](paperAdmin/public/News_List.png)  
+
 
 ---
 
